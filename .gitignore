@@ -1,0 +1,36 @@
+# Dependencias
+node_modules/
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de compilación o build
+dist/
+build/
+.cache/
+.next/
+out/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Cobertura de tests
+coverage/
+
+# Archivos de bases de datos locales (ej. sqlite)
+*.sqlite
+*.sqlite3
+*.db
+
+# Archivos de carga (uploads) temporales
+uploads/
+tmp/

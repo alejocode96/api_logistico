@@ -1,0 +1,11 @@
+{"timestamp":"2025-08-29T03:13:08.127Z","level":"INFO","message":"Database initialized successfully"}
+{"timestamp":"2025-08-29T03:13:08.608Z","level":"INFO","message":"Application initialization completed"}
+{"timestamp":"2025-08-29T03:13:08.616Z","level":"INFO","message":"Server running on port 3000","port":"3000"}
+{"timestamp":"2025-08-29T03:15:48.154Z","level":"INFO","message":"GET /api/health","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0"}
+{"timestamp":"2025-08-29T03:15:48.650Z","level":"INFO","message":"GET /favicon.ico","ip":"::1","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0"}
+{"timestamp":"2025-08-29T03:16:31.472Z","level":"INFO","message":"GET /api/auth/login","ip":"::1","userAgent":"PostmanRuntime/7.44.0"}
+{"timestamp":"2025-08-29T03:16:47.955Z","level":"INFO","message":"POST /api/auth/login","ip":"::1","userAgent":"PostmanRuntime/7.44.0"}
+{"timestamp":"2025-09-01T20:50:29.643Z","level":"INFO","message":"Database initialized successfully"}
+{"timestamp":"2025-09-01T20:50:29.702Z","level":"INFO","message":"Application initialization completed"}
+{"timestamp":"2025-09-01T20:50:29.713Z","level":"INFO","message":"Server running on port 3000","port":"3000"}
+{"timestamp":"2025-09-01T21:13:13.337Z","level":"INFO","message":"Received SIGINT. Starting graceful shutdown..."}
